@@ -1,6 +1,6 @@
-# SOLLIX Website — Flutter Frontend
+# SOLLIX Website
 
-Single-page corporate website matching the approved mockup. Simple structure —
+Single-page corporate website matching the approved mockup. Simple structure ,
 no state management library, no routing package, no unnecessary folders.
 
 ## How to run
@@ -45,18 +45,18 @@ assets/
 
 ## IMPORTANT — About the images included
 - `logo.png` is a rough placeholder (not your real logo) — replace it with your
-  actual AI-generated / final logo file, keeping the exact filename `logo.png`.
+  actual final logo file, keeping the exact filename `logo.png`.
 - The 5 project/hero photos were cropped directly from your mockup screenshot
   so the LOOK matches exactly — but since the mockup screenshot itself was
   only ~1024px wide, these cropped images are low resolution (some as small
   as 173x136px). They will look fine at small sizes but may look soft/blurry
   if the site is viewed on a large monitor. Replace them with high-resolution
-  originals (1200px+ wide) as soon as you have them — same filenames, no code
+  originals (1200px+ wide) as soon as you have them ,same filenames, no code
   changes needed.
 
 ## Known gaps / confirm before backend phase
 - "About Us" and "Our Values" nav links currently scroll to the nearest
-  existing section (Features / Stats) — no dedicated section design was
+  existing section (Features / Stats) no dedicated section design was
   provided for these yet.
 - Phone/email are still mockup placeholders (+971 50 123 4567 / info@sollix.ae)
   — confirm real details before going live.
